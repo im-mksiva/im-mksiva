@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Java, OpenStack, Docker and System Administation**
 
-- ⚡ Fun fact: **I like ducks 🦆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
